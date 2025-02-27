@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[FaceBook]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2025-02-26T22:25:04 IST" name="Default suite" finished-at="2025-02-26T22:25:14 IST" duration-ms="9972">
+    <groups>
+    </groups>
+    <test started-at="2025-02-26T22:25:04 IST" name="Default test" finished-at="2025-02-26T22:25:14 IST" duration-ms="9972">
+      <class name="testNG.FbScenario">
+        <test-method signature="LaunchFB()[pri:0, instance:testNG.FbScenario@18078bef]" started-at="2025-02-26T22:25:04 IST" name="LaunchFB" finished-at="2025-02-26T22:25:14 IST" duration-ms="9900" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[FaceBook]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LaunchFB -->
+      </class> <!-- testNG.FbScenario -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
