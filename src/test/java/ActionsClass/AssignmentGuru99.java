@@ -14,6 +14,7 @@ public class AssignmentGuru99 {
 		// TODO Auto-generated constructor stub
 	}
 
+	//Changes made in this script
 	public static void main(String[] args) throws InterruptedException {
 
 		WebDriver driver = new ChromeDriver();
